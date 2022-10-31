@@ -1,5 +1,4 @@
 hyuki:
   dev:
-    param1: test1
-    param2: test2
-  
+    param1: dev1
+    param2: dev2
