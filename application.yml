@@ -6,3 +6,6 @@ hyuki:
     param1: default-application1
     param2: default-application2
   
+auth:
+  key: default-key
+  value: deafult-value
