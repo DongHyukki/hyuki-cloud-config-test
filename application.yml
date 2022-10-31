@@ -1,8 +1,8 @@
 hyuki:
   dev:
-    param1: default1
-    param2: default2
+    param1: default-application1
+    param2: default-application2
   application:
-    param1: default1
-    param2: deafult2
+    param1: default-application1
+    param2: default-application2
   

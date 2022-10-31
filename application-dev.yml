@@ -1,5 +1,5 @@
 hyuki:
   application:
-    param1: test1
-    param2: test2
+    param1: dev-application-1
+    param2: dev-application-2
   
