@@ -2,3 +2,7 @@ hyuki:
   dev:
     param1: default1
     param2: default2
+  application:
+    param1: default1
+    param2: deafult2
+  
